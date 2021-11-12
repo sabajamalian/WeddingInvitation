@@ -33,7 +33,7 @@ Create a new branch named `rsvp.`
 
 5. Scroll down and "commit" your changes. This way, Git tracks the change. Add a short message describing the change. You also have an option to include a more verbose description of the change. Then commit your changes to your `rsvp` branch. 
 
-![make a commit](Images/img03.png)
+![make a commit](Images/img04.png)
 
 Once you commit the change, Github immediately takes you to a pull request creation page so that you can create a PR from your branch to the main branch of your forked repository. However, we plan to make a pull request from your feature branch to the main branch of the public and original repository. Therefore, ignore and click on the code to open your repository page. 
 
