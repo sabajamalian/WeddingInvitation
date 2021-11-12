@@ -22,11 +22,18 @@ When you fork the repository, the counter number next to the Fork button on the 
 2. In the forked copy of the repository in your Github account, click on the drop down menu that shows `main`. This is the current branch of the repository displayed. The dropdown manu shows other available branches in the repository and also enables you to create a new branch. 
 Create a new branch named `rsvp`.
 
-![fork repository button](Images/img02.png)
+![create a new branch](Images/img02.png)
 
 3. On the `rsvp` branch, open the `guests.md` file and then click on the little pencil button that says `Edit this file`. 
 
-![fork repository button](Images/img03.png)
+![edit a file](Images/img03.png)
 
-4. The `guests.md` file is a Markdown table that includes the list of all the guests who have RSVPed to the wedding. Add a new row to the table and include your name and information. 
+4. The `guests.md` file is a Markdown table that includes the list of all the guests who have RSVPed to the wedding. Add a new row to the table and include your name and the number of guests coming with you. 
 
+5. Scroll down and "commit" your changes. This way Git tracks the change. Add a short message describing the change. You also have an option to include a more verbose description of the change. Then commit your chnage to your `rsvp` branch. 
+
+![make a commit](Images/img03.png)
+
+Once you commit the change, Github immediately takes you to a Pull Request creation page so that you can create a PR from your branch to the main branch of your forked repository. However, we are planning on creating a Pull Request from your feature branch to the main branch of the public and origiranl repository. Therefore, ignore and click on code to open your repository page. 
+
+6. 
